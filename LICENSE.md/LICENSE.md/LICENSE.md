@@ -10,11 +10,8 @@
 		<p>My name is Brianna Armstrong. I originally was born in Cleveland, OH but I spent most of my life growing up in Columbus. Last year my family and I decideded to relocate to be closer to our immediate family. During my time in Cleveland so far I </p>
 	<h2 id="Hobbies_/_Interests">Hobbies &amp; Interests</h2>
 		<p>In my spare time I have a few hobbies I really enjoy. The first would be <em>yoga</em>. After a yoga class my mind always feels at ease. It is wonderful for stress relief and helps when I am boggled down with work or school. Another one of my favorite hobbies would be <em>spending time in nature.</em> </p>
-
-<img src="IMG_2808.PNG" alt="A family of quokka" title="The quokka is an Australian marsupial that is similar in size to the domestic cat."/> <br />
- <img src="IMG_2808.PNG" alt="A family of quokka" width="600" height="450"/> <br />
  
- 
+ <a href="https://briannajanaee.blogspot.com/2018/08/a-new-journey.html">Check Out my Blog</a>
  
 <a href="mailto:armstrongb23@icloud.com">Email Brianna</a><br />
 
