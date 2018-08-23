@@ -19,6 +19,7 @@
 		<input type="text" name="email"/> </label> <br />
 	<label>Telephone<br />
 		<input type="text" name=Telephone"/></label> <br /> 
+						  </fieldset>
 <form action="/action_page.php">
   First name:<br>
   <input type="text" name="firstname" value="Brianna"><br>
@@ -26,8 +27,9 @@
   <input type="text" name="lastname" value="Armstrong"><br><br>
   <input type="submit" value="Submit">
 </form>
+				     
 <a href="mailto:armstrongb23@icloud.com">Email Brianna</a><br />
-
+ 
 
 <p><a href="#top">Top</a></p>
 </body>
