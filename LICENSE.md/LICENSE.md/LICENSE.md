@@ -2,7 +2,7 @@
 <html>
 <head>
 <body> 
-	<h1 id"top">About Me</h1>
+	<h1 id"top">Who is Brianna Armstrong?</h1>
 	<a href="Background">Background</a><br />
 	<a href="Hobbies_/_Interests">Hobbies</a><br />
 	<a href="Recommended_Books">Recommended Books</a><br />
@@ -13,6 +13,19 @@
  
  <a href="https://briannajanaee.blogspot.com/2018/08/a-new-journey.html">Check Out my Blog</a>
  
+ <fieldset> 
+	<Legend>Contact Details</legend>
+	<label>Email:<br /> 
+		<input type="text" name="email"/> </label> <br />
+	<label>Telephone<br />
+		<input type="text" name=Telephone"/></label> <br /> 
+<form action="/action_page.php">
+  First name:<br>
+  <input type="text" name="firstname" value="Brianna"><br>
+  Last name:<br>
+  <input type="text" name="lastname" value="Armstrong"><br><br>
+  <input type="submit" value="Submit">
+</form>
 <a href="mailto:armstrongb23@icloud.com">Email Brianna</a><br />
 
 
