@@ -31,6 +31,33 @@
 <a href="mailto:armstrongb23@icloud.com">Email Brianna</a><br />
  
 
+</head>
+<body>
+<center> <h2>Cleveland Codes Class Schedule 2018</h2>
+<table style="width 100%">
+  </tr>
+  <tr>
+    <th>Monday</th> 
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+    <th>Saturday</th>
+    <th>Sunday</th> 
+  </tr>
+  <tr>
+    <td>9:00am - 4:00pm</td>
+    <td>9:00am - 4:00pm</td><br />
+    <td>9:00am - 4:00pm</td><br />
+    <td>9:00am - 4:00pm</td><br />
+    <td>9:00am - 4:00pm</td><br /> 
+    <td><em>OFF</em></td> 
+    <td><em>OFF</em></td>
+  </tr>
+</table>
+
+
+
 <p><a href="#top">Top</a></p>
 </body>
 </html>
